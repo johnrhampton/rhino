@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/johnrhampton/rhino.git"
   },
-  "author": "LCL, JRH",
+  "author": "ChuckLangford, johnrhampton",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/johnrhampton/rhino/issues"
