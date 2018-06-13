@@ -1,5 +1,5 @@
 {
-  "name": "rhino",
+  "name": "node-rhino",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/johnrhampton/rhino.git"
   },
-  "author": "JRH, LCL",
+  "author": "LCL, JRH",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/johnrhampton/rhino/issues"
